@@ -38,7 +38,7 @@ It is greatly supported by the AEDState class.
 ## Individual Contributions
 
 ### Gurtej Grewal
-	Throughout this project, I took on multiple responsibilities, starting with the management of Azure DevOps and the breakdown of the project, enabling me to assign tasks efficiently to my fellow team members. This particular structure sped up the development of our program to be a highly functional simulation, surpassing all required implementations and allowing for the incorporation of additional features.
+	Throughout this project, I took on multiple responsibilities, starting with the management of Azure DevOps and the breakdown of the project,enabling me to assign tasks efficiently to my fellow team members. This particular structure sped up the development of our program to be a highly functional simulation, surpassing all required implementations and allowing for the incorporation of additional features.
 
 	In addition to overseeing project management, I reviewed all pull requests from my group members before merging them with the main program. This approach to source control prevented issues such as duplicate code, accidental overwrites of other members' implementations, and potential errors stemming from any miscommunication.
 
